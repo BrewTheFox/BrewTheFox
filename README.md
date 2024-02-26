@@ -7,7 +7,7 @@
 - 📫 You can reach me by discord: justbrewthefox#0
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started coding by the age of 10 due to Roblox.
-- 🌐 [Website](brewthefox.github.io)
+- 🌐 [Website](https://brewthefox.github.io)
 
 <!---
 BrewTheFox/BrewTheFox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
