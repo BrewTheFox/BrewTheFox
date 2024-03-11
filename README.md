@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on [ArcticSoftworks](https://github.com/ArcticSoftworks)
 - 📫 You can reach me by discord: justbrewthefox#0
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I started coding by the age of 10 due to Roblox. and i almost forgot git today
+- ⚡ Fun fact: I started coding by the age of 10 due to Roblox. and i almost forgot git yesterday
 - 🌐 [Website](https://brewthefox.github.io)
 
 <!---
