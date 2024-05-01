@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some personal projects<br>🤝 I’m looking for help with [ArcticSoftworks](https://github.com/ArcticSoftworks)<br>🌱 I’m currently learning Python, Typescript<br>💬 Ask me about any project<br>⚡ I started coding by the age of 12
+🔭 I’m currently working on learning and school<br>🤝 I’m looking for help with [ArcticSoftworks](https://github.com/ArcticSoftworks)<br>🌱 I’m currently learning Python, Typescript<br>💬 Ask me about any project<br>⚡ I started coding by the age of 12
 
 
 ## 🌐 Socials:
