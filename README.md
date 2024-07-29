@@ -2,7 +2,7 @@
 🔭 I’m currently working on learning and school<br>🤝 I’m looking for help with [ArcticSoftworks](https://github.com/ArcticSoftworks)<br>🌱 I’m currently learning Python, Typescript<br>💬 Ask me about any project<br>⚡ I began coding by the age of 12 but i'm still learning so don't expect the best code.
 
 # 📅 Daily Words to don't lose my streak:
-I'm starting to become a block cutting addict.
+I almost lost my streak today.
 
 
 ## 🌐 Socials:
