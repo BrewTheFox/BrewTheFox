@@ -2,7 +2,7 @@
 🔭 I’m currently working on learning and school<br>🤝 I’m looking for help with [ArcticSoftworks](https://github.com/ArcticSoftworks)<br>🌱 I’m currently learning Python, Typescript<br>💬 Ask me about any project<br>⚡ I began coding by the age of 12 but i'm still learning so don't expect the best code.
 
 # 📅 Daily Words to don't lose my streak:
-The oracle support restored my OCI after doing a SR.
+I Need the quest 2 Sahara protocol firehose files. I think I'm the only person in the world that was able to brick an original Quest 2 prototype :(.
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@N1Ghtl7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCajcmRcDJxsOjckM1STY-6g) 
