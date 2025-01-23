@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning and school<br>🤝 I’m looking for help with [ArcticSoftworks](https://github.com/ArcticSoftworks)<br>🌱 I’m currently learning Python, Typescript<br>💬 Ask me about any project<br>⚡ I began coding by the age of 12 but i'm still learning so don't expect the best code. Also, My english level is hypotetically C2 and I have a certification for it.
+🔭 I’m currently working on learning and school<br>🤝 I’m looking for help with [ArcticSoftworks](https://github.com/ArcticSoftworks)<br>🌱 I’m currently learning Python, Typescript<br>💬 Ask me about any project<br>⚡ I began coding by the age of 12 but i'm still learning so don't expect the best code. Also, My english level is hypothetically C2 and I have a certification for it.
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@N1Ghtl7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCajcmRcDJxsOjckM1STY-6g) 
