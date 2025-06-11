@@ -9,4 +9,12 @@
 
 ### Achievements
 
-- I have many but if I told I will be in big trouble 😵‍💫
+- I have many but if I told you I will be in big trouble 😵‍💫
+
+### About me
+
+- I'm 16 years old
+- I use arch btw
+- I wrote this about me in my boring English class
+- I did an English test and I got a supposed C2 score (I don't think that's real)
+- Meow >:3
