@@ -1,4 +1,4 @@
-## Hiya, I'm Brew and I'm an Arctic Fox dude trying to build a future based on high quality software software ❄️
+## Hiya, I'm Brew and I'm an Arctic Fox dude trying to build a future based on high quality software ❄️
 
 ### What do I like to code?
 
