@@ -17,4 +17,6 @@
 - I use arch btw
 - I wrote this about me in my boring English class
 - I did an English test and I got a supposed C2 score (I don't think that's real)
+- I'm from Colombia (not Columbia)
+- I'm a furry
 - Meow >:3
