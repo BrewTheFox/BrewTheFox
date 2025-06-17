@@ -20,5 +20,3 @@
 - I'm from Colombia (not Columbia)
 - I'm a furry
 - Meow >:3
-
-![tracker](https://iplogger.co/1zbxK4)
