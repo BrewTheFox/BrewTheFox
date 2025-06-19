@@ -20,3 +20,7 @@
 - I'm from Colombia (not Columbia)
 - I'm a furry
 - Meow >:3
+<h2 align="center">Here's a silly widget I made :3</h2>
+<p align="center">
+  <img src="https://profile-image-generator-git-main-brewthefoxs-projects.vercel.app/image" alt="The silly widget :3"/>
+</p>
