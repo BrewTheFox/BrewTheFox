@@ -13,7 +13,7 @@
 
 ### About me
 
-- I'm 16 years old
+- I'm 17 years old
 - I use arch btw
 - I wrote this about me in my boring English class
 - I did an English test and I got a supposed C2 score (I don't think that's real)
