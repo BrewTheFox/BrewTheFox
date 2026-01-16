@@ -12,7 +12,7 @@
 - Reporting +2 critical errors to an app with 1M+ registered users.
 - Painfully writing by hand a FurASM challenge for my Roblox profile.
 - Keeping my OPSEC behind four layers (you're halfway through or mid-high trust identity).
-- Many others things I did when I was younger.
+- Many other things I did when I was younger.
 
 ### 🦊 About me 🦊:
 
