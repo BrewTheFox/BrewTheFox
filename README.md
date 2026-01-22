@@ -27,5 +27,5 @@
   
 <h2 align="center">\/ Read also \/</h2>
 <p align="center">
-  <img src="https://profile-image-generator-git-main-brewthefoxs-projects.vercel.app/image" alt="The silly widget :3"/>
+  <img src="https://gitwidget.brewthefox.dev/image" alt="The silly widget :3"/>
 </p>
