@@ -4,7 +4,7 @@
 
 - Teach myself how to code stuff.
 - Pushing technology's boundaries to make amazing software for personal use.
-- Reverse engineering code that makes me curious on the processes behind it (Mostly WEB but I can do ASM/IL).
+- Reverse engineering code that makes me curious about the processes behind it (Mostly WEB but I can do ASM/IL).
 - Backend development (sorry y'all I rather logic over aesthetics).
 
 ### 📝 Achievements 📝:
