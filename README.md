@@ -5,7 +5,7 @@
 - Teach myself how to code stuff.
 - Pushing technology's boundaries to make amazing software for personal use.
 - Reverse engineering code that makes me curious about the processes behind it (Mostly WEB but I can do ASM/IL).
-- Backend development (sorry y'all I rather logic over aesthetics).
+- Backend development (sorry y'all I choose logic over aesthetics).
 
 ### 📝 Achievements 📝:
 
@@ -23,7 +23,7 @@
 - I love fluffy people from the internet and I'm one of them too >:3.
 - I don't enjoy vibe coding as much as I enjoy doing it manually, It makes me feel extremely happy to know that I can control everything that my computer does!
 - I'm currently interested in HUMINT!
-- I will have to create a unilateral link to this profile from my portfolio, the architecture I have in mind uses HMAC and. complex backend that will display a code below.
+- I will have to create a unilateral link to this profile from my portfolio, the architecture I have in mind uses HMAC and a complex backend that will display a code below.
   
 <h2 align="center">\/ Read also \/</h2>
 <p align="center">
