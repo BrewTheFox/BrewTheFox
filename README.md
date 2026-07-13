@@ -22,7 +22,6 @@
 - My friends think that I'm paranoid but they won't take me seriously when I talk about the dangers of the internet.
 - I love fluffy people from the internet and I'm one of them too >:3.
 - I don't enjoy vibe coding as much as I enjoy doing it manually, It makes me feel extremely happy to know that I can control everything that my computer does!
-- I'm currently interested in HUMINT!
 - I will have to create a unilateral link to this profile from my portfolio, the architecture I have in mind uses HMAC and a complex backend that will display a code below.
   
 <h2 align="center">\/ Read also \/</h2>
